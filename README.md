@@ -17,5 +17,7 @@
 
 <http://g.recordit.co/3Ci1wMu6QL.gif>
 
+https://giphy.com/gifs/YnAIpsUnJuhXZlU52W
+
 ### Notes
 Describe any challenges encountered while building the app.
